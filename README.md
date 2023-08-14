@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=@deterrion-corley-tech&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center; width: 100%">
+<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center; width: 100%" align="center">
     I'm a senior fullstack developer with almost a decade of experience in software development, specializing in web technologies.
 </p>
 <p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;">I specialize in using React for frontend development and Golang for backend.</p>
