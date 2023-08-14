@@ -4,8 +4,8 @@
 <p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center; width: 100%" align="center">
     I'm a senior fullstack developer with almost a decade of experience in software development, specializing in web technologies.
 </p>
-<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;">I specialize in using React for frontend development and Golang for backend.</p>
-<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;">I am passionate about creating robust and efficient solutions to meet clients' needs.</p>
+<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;" align="center">I specialize in using React for frontend development and Golang for backend.</p>
+<p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center;" align="center">I am passionate about creating robust and efficient solutions to meet clients' needs.</p>
 <br/>
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
@@ -173,19 +173,3 @@
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 </div> 
-<div align="center" style="witdh:100%"> 
-<h3>
- :fire: My Stats
-</h3><br/>
- </div>
-<div align="center" style="witdh:100%"> 
-  <img src = "https://github-readme-stats.vercel.app/api?username=silivex&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=silivex&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-<br><br>
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=silivex&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
-</div>
-<br/>
-<br/><div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
-</div> 
-<!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
