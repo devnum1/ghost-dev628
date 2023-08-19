@@ -12,7 +12,7 @@
 </div> 
 
 <p align="center">
-    <a href="https://app.daily.dev/jari-heino-tech"><img src="https://api.daily.dev/devcards/03c81538838e4d38a4733f0af1d879b4.png?r=1x6" width="400" alt="Jari Heino's Dev Card"/></a>
+    <a href="https://app.daily.dev/deterrion-corley-tech"><img src="https://api.daily.dev/devcards/03c81538838e4d38a4733f0af1d879b4.png?r=p57" width="400" alt="Deterrion Quintez Corley's Dev Card"/></a>
 </p>
 
 <br/><div align="center">
