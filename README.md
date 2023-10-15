@@ -12,7 +12,7 @@
 </div> 
 
 <p align="center">
-    <a href="https://app.daily.dev/deterrion-quintez-corley"><img src="https://api.daily.dev/devcards/03c81538838e4d38a4733f0af1d879b4.png?r=7kr" width="400" alt="Deterrion Quintez Corley's Dev Card"/></a></p>
+    <a href="https://app.daily.dev/leon-murphy-tech"><img src="https://api.daily.dev/devcards/03c81538838e4d38a4733f0af1d879b4.png?r=gz2" width="400" alt="Leon Murphy's Dev Card"/></a></p>
 
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
