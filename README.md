@@ -12,7 +12,7 @@
 </div> 
 
 <p align="center">
-    <a href="https://app.daily.dev/hoang-tech"><img src="https://api.daily.dev/devcards/03c81538838e4d38a4733f0af1d879b4.png?r=gz2" width="400" alt="Hoang L's Dev Card"/></a></p>
+    <a href="https://app.daily.dev/hoangtech628"><img src="https://api.daily.dev/devcards/v2/Tc7LGKyiigujAHGKniiCu.png?type=default&r=ki6" width="356" alt="Hoang L.'s Dev Card"/></a></p>
 
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
