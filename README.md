@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=@hoang-tech&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=@cliff-ahleong-tech&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <p style="font-size: 20px; letter-spacing: 1px; margin: 0; text-align: center; width: 100%" align="center">
     I'm a senior fullstack developer with almost a decade of experience in software development, specializing in web technologies.
@@ -12,7 +12,7 @@
 </div> 
 
 <p align="center">
-    <a href="https://app.daily.dev/hoangtech628"><img src="https://api.daily.dev/devcards/v2/Tc7LGKyiigujAHGKniiCu.png?type=default&r=ki6" width="356" alt="Hoang L.'s Dev Card"/></a></p>
+    <a href="https://app.daily.dev/cliff-ahleong"><img src="https://api.daily.dev/devcards/v2/Tc7LGKyiigujAHGKniiCu.png?type=default&r=ki6" width="356" alt="Cliff Ahleong's Dev Card"/></a></p>
 
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
