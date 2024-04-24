@@ -12,7 +12,7 @@
 </div> 
 
 <p align="center">
-    <a href="https://app.daily.dev/cliff-ahleong"><img src="https://api.daily.dev/devcards/v2/Tc7LGKyiigujAHGKniiCu.png?type=default&r=ki6" width="356" alt="Cliff Ahleong's Dev Card"/></a></p>
+    <a href="https://app.daily.dev/cliffahleongtech"><img src="https://api.daily.dev/devcards/v2/Tc7LGKyiigujAHGKniiCu.png?type=default&r=ki6" width="356" alt="Cliff Ahleong's Dev Card"/></a></p>
 
 <br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
